@@ -11,5 +11,5 @@ For Context: VisioAccelerAI is a capstone project. Its main goal is to inference
 
 # Visio_Labelling-Automation
 ## This branch has two purpose:
-1. First is to collect data aumatically using a webcam in real-time and automates to label the collected data.
-2. Second is to automate  labelling of your exising collected datasets.
+- First is to collect data aumatically using a webcam in real-time and automates to label the collected data.
+-  Second is to automate  labelling of your exising collected datasets.
