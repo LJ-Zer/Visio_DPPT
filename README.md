@@ -1,6 +1,8 @@
-# Visio_DPPT
-## Visio_Data Pre-Processing Tools
-
-### The following branches are the modified pre-processing tools used by VisioAccelerAI.
-For Context: VisioAccelerAI is a capstone project. Its main goal is to inference a facial recognition system into an FPGA board to boost the computational capability of the model to have its application of real-time attendance monitoring system.
-
+1. Create Virtual Environment in Anaconda
+    - conda create --name data-augmentation python=3.9.18
+    - conda activate data-augmentation
+2. Install Dependencies
+    - cd Augmentor
+    - python setup.py
+3. Execute the code
+    - python script.py --loc "put_the_location_of_the_images" --num "put_the_output_numbers_of_the_images"
