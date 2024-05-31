@@ -12,3 +12,6 @@ VisioAccelerAI is a capstone project. Its main goal is to inference a facial rec
 ## This branch has two purpose:
 - First is to collect data aumatically using a webcam in real-time and automates to label the collected data.
 -  Second is to automate  labelling of your exising collected datasets.
+
+# Visio_Dataset-Splitter
+- This branch is used to split the datasets to train, test, validation.
