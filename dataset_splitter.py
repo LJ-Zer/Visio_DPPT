@@ -8,7 +8,7 @@ test_folder = "test"
 train_folder = "train"
 validation_folder = "validation"
 
-# Define the number of images for each category
+# Define the number of images for each category, this is the default that used in VisioAccelerAI
 num_test_images = 20
 num_train_images = 180
 num_validation_images = 50
