@@ -1,3 +1,4 @@
+# Instructions 
 0. I recommend to edit the dataset-splitter.py by using args to call the functions and folders in terminal.
 	- For now, just locate the and edit the script on where you can locate your folders.
 1. Open File dataset_splitter.py
