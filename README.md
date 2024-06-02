@@ -26,4 +26,4 @@ VisioAccelerAI is a capstone project. Its main goal is to deploy a facial recogn
 # Visio_Dataset-Splitter
 - This branch is used to split the datasets to train, test, validation. Follow the steps in the Visio_Dataset-Splitter branch.
 
-
+##### Working as of 02/06/24
