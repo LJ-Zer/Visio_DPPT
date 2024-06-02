@@ -1,5 +1,5 @@
 # IMPORTANT!
-- Install Anaconda for Windows/Ubuntu/Linux, it depends on where you deploy the model. it is important to segregate python libraries for specific use.
+- Install Anaconda for Windows/Ubuntu/Linux, it depends on what machine did you use for Data Augmentation. It is important to segregate Python libraries for specific use, that's why we use this Anaconda.
 - https://www.anaconda.com/download
 
 # After Installation 
