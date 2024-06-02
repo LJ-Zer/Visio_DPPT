@@ -1,3 +1,6 @@
+# Visio_Augmentor
+- This branch is used to augment the collected data using the Python library 'Augmentor.' Feel free to explore the other functions of this library. For now, script.py is used to augment several datasets for the project and follow the steps in the main branch of the Visio_Augmentor.
+
 # Create Virtual Environment in Anaconda (Git Terminal)
 - conda create --name Visio_Augmentor python=3.9.18
 - conda activate Visio_Augmentor
