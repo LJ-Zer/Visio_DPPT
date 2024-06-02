@@ -1,5 +1,5 @@
 # Visio_Automation-of-Labeling (Version-2)
-- This branch is used to automate the labeling process of your dataset. Also, I provide certain scripts to gather data in real time using your webcam.  
+- This branch is used to automate the annotation process compared to manual labeling. It can also be used to automatically label the collected data from the images you currently have. Please follow the steps in the Visio_Labelling-Automation branch. 
 
 # Create Virtual Environment in Anaconda (Git Terminal)
 - conda create --name Visio_Labeling python=3.6
