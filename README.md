@@ -24,6 +24,6 @@ VisioAccelerAI is a capstone project. Its main goal is to deploy a facial recogn
 - This branch is used to automate the annotation process compared to manual labeling. It can also be used to automatically label the collected data from the images you currently have. Please follow the steps in the Visio_Labelling-Automation branch. 
 
 # Visio_Dataset-Splitter
-- This branch is used to split the datasets to train, test, validation. Follow the steps in the Visio_Dataset-Splitter branch.
+- This branch is used to split the datasets to train, test, validation. This process is the final step for the pre-process/training of the model. Follow the steps in the Visio_Dataset-Splitter branch.
 
 ##### Working as of 02/06/24
