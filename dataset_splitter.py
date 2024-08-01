@@ -3,7 +3,7 @@ import shutil
 import random
 
 # Define the paths
-source_folder = "Queenie Amargo"
+source_folder = "User Name"
 test_folder = "test"
 train_folder = "train"
 validation_folder = "validation"
